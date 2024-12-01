@@ -36,8 +36,8 @@
 // ===========================
 // Enter your WiFi credentials
 // ===========================
-const char *ssid = "Redmi Note 9";
-const char *password = "98e94d8d0912";
+const char *ssid = "T-207050";
+const char *password = "efdh37h4mtth";
 
 void startCameraServer();
 void setupLedFlash(int pin);
